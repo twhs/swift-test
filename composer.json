@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^5.3",
+        "rackspace/php-opencloud": "^1.16"
+    }
+}
